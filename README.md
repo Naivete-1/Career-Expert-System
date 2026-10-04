@@ -200,7 +200,7 @@ This project demonstrates practical application of:
 * 
 ## 📄 Documentation
 
-The complete project report is available in **`Report.pdf`**.
+The complete project report is available in **`Rule%20Based%20Expert%20System%20for%20career%20guidance%20project.pdf`**.
 
 The report provides additional information about the system requirements, architecture, modules, implementation and development process.
 
